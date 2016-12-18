@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Final Exam CP SU 2016</string>
+    <string name="login_label">Login</string>
+    <string name="register_label">Register</string>
+    <string name="main_welcome">Welcome</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="btn_register_submit">CREATE AN ACCOUNT</string>
+    <string name="btn_create_account">CREATE A NEW ACCOUNT</string>
+    <string name="btn_login_submit">LOGIN</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="invalid_login">Invalid Username or Password</string>
+
+    <string name="user_created">Users created successfully</string>
+    <string name="dialog_register_failed_title">Registration failed!</string>
+    <string name="dialog_register_failed_message">Username already exists.</string>
+</resources>
